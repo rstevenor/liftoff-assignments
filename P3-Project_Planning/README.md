@@ -15,4 +15,4 @@ https://trello.com/b/aA0JULB0/liftoff-2022
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/April-2022-LC-LiftOff/PyramidBuilders
